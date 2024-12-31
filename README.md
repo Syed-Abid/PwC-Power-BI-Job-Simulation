@@ -33,3 +33,10 @@ Welcome to the **PwC Power BI Job Simulation** repository! This project is part 
   - Dynamic Filtering
   - Drill-through Pages
   - KPI Cards and Slicers  
+
+## 📬 Contact
+
+Questions or suggestions? Reach out to me:
+
+- **Syed Abid Hassan**
+- **Email:** [abidhassanjaffri31@gmail.com](mailto:abidhassanjaffri31@gmail.com)
