@@ -21,11 +21,16 @@ Welcome to the **PwC Power BI Job Simulation** repository! This project is part 
 
 
 ## 📊 Dashboards
-### 1. **Sales Performance Dashboard**  
+
+<div align="center">
+  <img src="https://github.com/Syed-Abid/PwC-Power-BI-Job-Simulation/blob/main/Customer%20Retention%20Dashboard.png" alt="Customer Retention Dashboard">
+</div>
 
 
-### 2. **Customer Analysis Dashboard**  
-
+<div align="center">
+  <img src="https://github.com/Syed-Abid/PwC-Power-BI-Job-Simulation/blob/main/Diversity%20Inclusion%20Dashboard.png" alt="Diversity Inclusion Dashboard">
+</div>
+  
 
 ## 🚀 Achievements
 - Completed the simulation with a focus on creating professional, presentation-ready dashboards.  
